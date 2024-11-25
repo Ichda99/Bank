@@ -1,0 +1,9 @@
+﻿  BankProject.cpp
+C:\Users\youss\source\repos\BankProject\BankProject\clsString.h(39,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\youss\source\repos\BankProject\BankProject\clsString.h(44,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\youss\source\repos\BankProject\BankProject\clsString.h(56,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\youss\source\repos\BankProject\BankProject\clsString.h(193,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\youss\source\repos\BankProject\BankProject\clsString.h(324,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\youss\source\repos\BankProject\BankProject\clsString.h(372,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\youss\source\repos\BankProject\BankProject\clsBankClient.h(29,40): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  BankProject.vcxproj -> C:\Users\youss\source\repos\BankProject\x64\Debug\BankProject.exe
